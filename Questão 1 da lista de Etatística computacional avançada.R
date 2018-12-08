@@ -1,4 +1,4 @@
-simula <- function(numero.iteracoes) {
+testegithub <- function(numero.iteracoes) {
   n <- numero.iteracoes
   caixa <- c(rep("m",30),rep("f",70))
   resultado <- integer(n)
